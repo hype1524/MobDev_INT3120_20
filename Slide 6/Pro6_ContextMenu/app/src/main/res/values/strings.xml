@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pro6_ContextMenu</string>
+    <string-array name="languages">
+        <item>Python</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+    </string-array>
+</resources>
